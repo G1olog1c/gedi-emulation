@@ -2,7 +2,7 @@ numpy
 scipy
 pandas
 matplotlib
-laspy
+laspy[laszip]
 h5py
 pyproj
 shapely
