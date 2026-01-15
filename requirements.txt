@@ -9,3 +9,8 @@ shapely
 numba
 tqdm
 scikit-learn
+h5py
+matplotlib
+pandas
+pytest
+lazrs
